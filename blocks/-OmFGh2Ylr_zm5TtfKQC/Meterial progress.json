@@ -1,0 +1,67 @@
+[
+  {
+    "code": "%1$s.setTrackThickness(%2$s);",
+    "imports": "",
+    "color": "#EF9A9A",
+    "name": "setTrackThickness",
+    "typeName": "",
+    "palette": "489",
+    "type": " ",
+    "spec": "%m.view setTrackThickness%d "
+  },
+  {
+    "code": "%1$s.setIndicatorColor(%2$s);\n",
+    "imports": "",
+    "color": "#EF9A9A",
+    "name": "set indicator color ",
+    "typeName": "",
+    "palette": "489",
+    "type": " ",
+    "spec": "%m.view set indicator colour %m.color "
+  },
+  {
+    "code": "%1$s.setTrackColor(%2$s);\n",
+    "color": "#EF9A9A",
+    "name": "Set Track Color",
+    "typeName": "",
+    "palette": "489",
+    "type": " ",
+    "spec": "%m.view Set Track Color%m.color "
+  },
+  {
+    "code": "%1$s.getProgress()",
+    "color": "#EF9A9A",
+    "name": "getProgress()",
+    "typeName": "",
+    "palette": "489",
+    "type": "d",
+    "spec": "%m.view getProgress"
+  },
+  {
+    "code": "%1$s.setProgress(%2$s);",
+    "color": "#EF9A9A",
+    "name": "setProgress",
+    "typeName": "",
+    "palette": "489",
+    "type": " ",
+    "spec": "%m.view setProgress %d "
+  },
+  {
+    "code": "%1$s.setIndeterminate(%2$s);",
+    "color": "#EF9A9A",
+    "name": "setIndeterminate",
+    "typeName": "",
+    "palette": "489",
+    "type": " ",
+    "spec": "%m.view setIndeterminate %b "
+  },
+  {
+    "code": "%1$s.setWaveAmplitude(%2$s);",
+    "color": "#EF9A9A",
+    "name": "setWaveAmplitude",
+    "typeName": "",
+    "palette": "489",
+    "type": " ",
+    "spec": "%m.view setWaveAmplitude %d "
+  }
+]
